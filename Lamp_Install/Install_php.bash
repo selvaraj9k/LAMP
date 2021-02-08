@@ -11,6 +11,7 @@ echo "Installing PHP!..."
 echo "Installing Packages!...."
 sudo apt install php libapache2-mod-php php-mysql -y
 echo "showing php version"
+
 #PHP versioin
 php -v
 echo "Php is successfully installed your system"
