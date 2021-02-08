@@ -5,10 +5,10 @@ echo "Your! system is upgrading!..."
 sudo apt upgrade -y
 #update the system
 echo "Your! system is updating!..."
-sudo apt update
+sudo apt update -y
 #Install MySql
 echo "Mysql-server is installing!..."
-sudo apt install mysql-server
+sudo apt install mysql-server -y
 #MySql security installation
 echo "MySql security script running !....."
 echo "please configure VALIDATE PASSWORD PLUGIN"
