@@ -6,6 +6,11 @@ sudo apt upgrade -y
 #update the system
 echo "Your! system is updating!..."
 sudo apt update -y
+echo 
+echo "---------------------------------------------------------------------"
+echo "-                      INSTALLING PHP                               -"
+echo "---------------------------------------------------------------------"
+echo 
 #Install PHP
 echo "Installing PHP!..."
 echo "Installing Packages!...."

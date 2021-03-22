@@ -6,6 +6,11 @@ sudo apt upgrade -y
 #update the system
 echo "Your! system is updating!..."
 sudo apt update -y
+echo 
+echo "----------------------------------------------------------------"
+echo "-                     INSTALLING MYSQL                         -"
+echo "----------------------------------------------------------------"
+echo 
 #Install MySql
 echo "Mysql-server is installing!..."
 sudo apt install mysql-server -y
