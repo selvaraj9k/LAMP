@@ -8,7 +8,7 @@ echo "Your! system is updating!..."
 sudo apt update
 echo
 echo "-----------------------------------------------------------------------"
-echo "                   INSTALLING APACHE AND UPDATING THE FIREWALL         "
+echo "-                  INSTALLING APACHE AND UPDATING THE FIREWALL        -"
 echo "-----------------------------------------------------------------------"
 echo 
 #Install Apache2 Web Server
