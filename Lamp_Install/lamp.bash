@@ -64,3 +64,4 @@ echo "showing php version"
 #PHP versioin
 php -v
 echo "Php is successfully installed your system"
+
