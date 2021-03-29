@@ -1,1 +1,1 @@
-SELECT * FROM addition;
+mysql> SELECT * FROM addition;
